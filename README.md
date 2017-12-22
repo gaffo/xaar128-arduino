@@ -12,6 +12,10 @@ Major Sources of Information
 * [Ytec3d Discussion](http://ytec3d.com/forum/viewtopic.php)
 * [Ytec3d Discussion](http://ytec3d.com/forum/viewtopic.php)
 * [Ytec3d Power Diagram](http://ytec3d.com/forum/viewtopic.php?f=8&t=47&start=80)
+* [Original Arduino Code](https://github.com/gkyle/xaar128)
+* [Kyle Scholz's blog post which spawned above](https://www.kylescholz.com/wp/xaar-128-controlled-by-arduino/)
+* [Spec Sheet from XAAR](http://d1.amobbs.com/bbs_upload782111/files_36/ourdev_619324HXZTX0.pdf)
+* [Interesting Bone Printer using XAAR 128, links to source](https://hackaday.io/project/21447-printing-bones-on-a-diy-powder-bed-3d-printer)
 
 Power Circuit
 -------------
@@ -33,4 +37,7 @@ Power Circuit
                          |
                         ___ GND
 </pre>
+
+Connector Information
+---------------------
 
