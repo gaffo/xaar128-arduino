@@ -1,3 +1,33 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +35HI
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +35LO
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +36V
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +5V
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP D
+D Diode
+K diode
+$ENDCMP
+#
+$CMP Q_NPN_BCE
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
 #End Doc Library
